@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a:
+# hyperblog 💚
 
 un blog increible como practica del curso de git y github
 >El curso de git y git hub de platzi es el primer curso que estoy tomando para iniciar mi crecimiento como devops
