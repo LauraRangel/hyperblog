@@ -9,6 +9,7 @@ un blog increible como practica del curso de git y github
 * El flujo de trabajo de github
 * el verdadero amor por las buenas practicas
 * trucos locos del profesor 
-* Las personalidades multiples para usar github 
+* Las personalidades multiples para usar github
+* Creado por la increible laura
 
 Y como recordatorio **Este readme.me es un chiste de ejemplo** . Por lo que no debe ser tomado en serio 
