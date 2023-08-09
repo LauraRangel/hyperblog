@@ -11,5 +11,7 @@ un blog increible como practica del curso de git y github
 * trucos locos del profesor 
 * Las personalidades multiples para usar github
 * Creado por la increible laura
+* incluye ejemplos en linux y windows
+* disponible para todas las edades
 
 Y como recordatorio **Este readme.me es un chiste de ejemplo** . Por lo que no debe ser tomado en serio 
